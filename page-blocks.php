@@ -176,7 +176,7 @@ function content_blocks() {
                 $sectionID = get_sub_field('section_id');
                 $sectionClass =  get_sub_field('section_class');
                 $map_text = get_sub_field('map_text');
-                $location = get_field('map');
+                $location = get_sub_field('map');
                 //echo '<section class="secondary-full-width-map">';
                 echo '<section id="' . $sectionID . '" class="content-block '. $sectionClass . '">';
                 echo '<article class="secondary-full-width-map widget">';
