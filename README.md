@@ -1,3 +1,3 @@
 # genesis-framework
 
-I have some prebuild codes.
+https://my.studiopress.com/themes/genesis/
